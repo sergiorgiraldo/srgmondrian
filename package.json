@@ -1,0 +1,41 @@
+{
+    "author": "sergiorgiraldo@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "srgmondrian",
+    "pebble": {
+        "displayName": "SrgMondrian",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/bt-icon-black.png",
+                    "name": "IMAGE_BT_ICON",
+                    "targetPlatforms": [
+                        "aplite",
+                        "basalt",
+                        "chalk",
+                        "diorite",
+                        "emery"
+                    ],
+                    "type": "png"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "5b679ace-4e49-43aa-b4a2-c27fad4e7ee2",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
